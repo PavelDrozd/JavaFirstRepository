@@ -1,0 +1,73 @@
+    1  git --version
+    2  git status
+    3  exit
+    4  git config --global user.email paveldrozd2575@gmail.com
+    5  git config --global user.name "Pavel Drozd"
+    6  git config --global user.name
+    7  git config --global user.email
+    8  --help
+    9  ssh-keygen -t rsa -C "paveldrozd2575@gmail.com"
+   10  cd .ssh/
+   11  dir
+   12  cd Users
+   13  cd h0ml3r/
+   14  cd .ssh/
+   15  notepad id_rsa.pub
+   16  clear
+   17  exit
+   18  git init
+   19  git status
+   20  git remote add origin
+   21  git remote add origin git@github.com:PavelDrozd/JavaFirstRepository.git
+   22  touch first.txt
+   23  git add first.txt
+   24  git commit -m "Create first.txt"
+   25  git status
+   26  git branch -a
+   27  git branch task1
+   28  git checkout task1
+   29  touch second.txt
+   30  git add Second.txt
+   31  git commit -m "Create second.txt"
+   32  notepad second.txt
+   33  git add second.txt
+   34  touch third.txt
+   35  git add Third.txt
+   36  git commit
+   37  git push --set-upstream origin task1
+   38  cd ..
+   39  touch git-repo
+   40  cd git-repo/
+   41  git clone git@github.com:PavelDrozd/Java0322.git
+   42  git status
+   43  cd JavaFirstRepository/
+   44  git add quad.txt
+   45  notepad third.txt
+   46  git add quad.txt
+   47  git add third.txt
+   48  git commit -m "Create quad.txt and modify third.txt" 
+   49  git push --set-upstream origin task1
+   50  git branch -a
+   51  git branch master
+   52  git checkout master
+   53  git touch readme.md
+   54  notepad readme.md
+   55  git commit -am "Create readme.md" 
+   56  git push -u origin master   
+   57  cd ..
+   58  cd ..
+   59  cd Drozd-git-repo/
+   60  git fetch
+   61  git beanch -a
+   62  git checkout taks1
+   63  notepad quad.txt
+   64  git commit -am "Update quad.txt"    
+   65  git push -u origin task1    
+   66  git branch -a
+   67  git checkout master
+   68  git fetch
+   69  git log -all
+   70  git branch task2
+   71  touch history.txt
+   72  history
+ 
