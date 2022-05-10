@@ -1,0 +1,52 @@
+commit 98a74bc50473b4328c7dd1c6fbe8884104b23185 (task2)
+Author: PavelDrozd <paveldrozd2575@gmail.com>
+Date:   Tue May 10 16:52:34 2022 +0300
+
+    Create history.txt
+
+commit 054a619ae5b2ae8f3fab68775167ff3ae9554a0c (HEAD -> master, origin/master)
+Merge: 5ce7bff 12e9e32
+Author: PavelDrozd <87943574+PavelDrozd@users.noreply.github.com>
+Date:   Tue May 10 15:18:35 2022 +0300
+
+    Merge pull request #1 from PavelDrozd/task1
+
+    We are going to merge task1 and master
+
+commit 12e9e3220378e9adddbbdcc9a4bf7c54af57eb53 (origin/task1, task1)
+Author: PavelDrozd <paveldrozd2575@gmail.com>
+Date:   Tue May 10 15:16:22 2022 +0300
+
+    Update quad.txt
+
+commit 5ce7bff1bc099c1dcd461118f51e251cce027c84
+Author: PavelDrozd <paveldrozd2575@gmail.com>
+Date:   Tue May 10 15:12:17 2022 +0300
+
+    Create readme.md
+
+commit db76e53da50fc4972afbb2f728558736f03aa0c8
+Author: PavelDrozd <paveldrozd2575@gmail.com>
+Date:   Tue May 10 15:03:20 2022 +0300
+
+    Create quad.txt and modify third.txt
+
+commit 203421a28cae67740e62cd6c26740bd012384406
+Author: PavelDrozd <paveldrozd2575@gmail.com>
+Date:   Tue May 10 14:55:09 2022 +0300
+
+    Modify and create
+
+    Modify second.txt and create third.txt
+
+commit dda8015304a5645a98d612c79404e629b266b174
+Author: PavelDrozd <paveldrozd2575@gmail.com>
+Date:   Tue May 10 14:52:56 2022 +0300
+
+    Create second.txt
+
+commit bb03600159c8d58645a29c276b7e7fcabdeb263a
+Author: PavelDrozd <paveldrozd2575@gmail.com>
+Date:   Tue May 10 14:51:27 2022 +0300
+
+    Create first.txt
